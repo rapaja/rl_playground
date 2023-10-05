@@ -11,8 +11,8 @@
 1. **Clone this repository into desired location on your machine.**
 
     ```bash
-    git clone ...
-    cd ... 
+    git clone https://github.com/rapaja/rl_playground.git
+    cd rl_playground
     ```
 
 1. **Create and activate a virtual environment.**
