@@ -1,2 +1,5 @@
 https://gymnasium.farama.org/tutorials/training_agents/reinforce_invpend_gym_v26/
 
+https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd
+https://towardsdatascience.com/modernize-your-sinful-python-code-with-beautiful-type-hints-4e72e98f6bf1
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
